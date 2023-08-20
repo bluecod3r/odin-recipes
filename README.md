@@ -1,0 +1,1 @@
+This is a recipe website following Foundations course in The Odin Project.
